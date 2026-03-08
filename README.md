@@ -40,4 +40,4 @@ Script keamanan lengkap untuk **Panel Pterodactyl** yang melindungi dari:
 
 ### **Metode 1: 1 Perintah (Paling Mudah)**
 ```bash
-curl -s https://raw.githubusercontent.com/ahmad62626/pterodactyl-security/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/FrazyGG/pterodactyl-security/main/install.sh | bash
